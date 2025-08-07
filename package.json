@@ -15,6 +15,6 @@
 	"devDependencies": {
 		"opener": "^1.5.2",
 		"prettier": "^2.5.1",
-		"surge": "^0.23.1"
+		"surge": "^0.24.6"
 	}
 }
